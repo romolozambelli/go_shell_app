@@ -1,1 +1,1 @@
-# go_shell_app
+# Mini GOlang Application for learning purposes
